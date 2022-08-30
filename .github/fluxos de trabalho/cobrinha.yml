@@ -14,7 +14,7 @@ empregos:
       - usa: Platane/snk@master
         id: cobra-gif
         com:
-          github_user_name: thiarafernandes
+          github_user_name: tiarafernandes
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - usa: crazy-max/ghaction-github-pages@v2.1.3
