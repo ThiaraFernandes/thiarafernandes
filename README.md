@@ -1,9 +1,9 @@
 ### Bem-vindo(a) ao meu perfil 👋
 
 <div>
-  <a href="https://github.com/tiarafernandes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiarafernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiarafernandes&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/thiarafernandes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiarafernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiarafernandes&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
@@ -21,6 +21,6 @@
   <a href = "mailto:thiararfernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
   <a href="https://www.linkedin.com/in/thiarafernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![Animação de cobra](https://github.com/tiarafernandes/tiarafernandes/blob/output/github-contribution-grid-snake.svg)
+  ![Animação de cobra](https://github.com/thiarafernandes/thiarafernandes/blob/output/github-contribution-grid-snake.svg)
 
 </div>
