@@ -15,15 +15,15 @@ Atualmente estudo HTML, CSS e JavaScript.
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF69B4)](https://www.linkedin.com/in/thiarafernandes/)
 
 ## Minhas Skils 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-264CE4?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![GIT](https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-DCDCDC?style=for-the-badge&logo=github&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=FF69B4)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=FF69B4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FF69B4)
+![GIT](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=FF69B4)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FF69B4)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiaraFernandes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiaraFernandes&theme=transparent&bg_color=000&border_color=FF69B4&show_icons=true&icon_color=FFF&title_color=FF69B4&text_color=FFF&hide_title=true&hide=stars)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThiaraFernandes&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThiaraFernandes&bg_color=000&border_color=FF69B4&title_color=FFF&text_color=FFF)
 
 
