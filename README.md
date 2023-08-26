@@ -1,27 +1,40 @@
-### Bem-vindo(a) ao meu perfil 👋
+### Thiara Fernandes 👋
 
-<div>
-  <a href="https://github.com/thiarafernandes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiarafernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiarafernandes&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-</div>
- 
- <br>
- 
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
- 
-<div>
-  <a href="https://instagram.com/thiarafernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:thiararfernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiarafernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Animação de cobra](https://github.com/thiarafernandes/thiarafernandes/blob/output/github-contribution-grid-snake.gif)
+Olá, sou profissional de TI. Formada em Análise e Desenvolvimento de Sistemas pela Universidade Norte do Paraná - UNOPAR.
 
-</div>
+Sou apaixonada por Tecnologias e agora estou aperfeiçoando em linguagens de
+Programação.  
+Atualmente estudo HTML, CSS e JavaScript.
+
+
+## Conecte-se comigo
+
+  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF69B4)](https://www.instagram.com/thiararfernandes/)
+
+ [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail&logoColor=FF69B4)](hhttps://mail.google.com/mail/u/0/#inbox/140d656b8e54d660)
+
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF69B4)](https://www.linkedin.com/in/thiarafernandes/)
+
+## Minhas Skils 
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS3-264CE4?style=for-the-badge&logo=css3&logoColor=fff)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+
+![GIT](https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=fff)
+
+![GitHub](https://img.shields.io/badge/GitHub-DCDCDC?style=for-the-badge&logo=github&logoColor=000)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiaraFernandes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThiaraFernandes&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+ 
+  ![Animação de cobra](https://github.com/ThiaraFernandes/thiarafernandes/blob/output/github-contribution-grid-snake.gif)
+
+
+
 
