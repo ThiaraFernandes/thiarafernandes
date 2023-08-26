@@ -26,4 +26,3 @@ Atualmente estudo HTML, CSS e JavaScript.
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThiaraFernandes&bg_color=000&border_color=FF69B4&title_color=FFF&text_color=FFF)
 
-![snake gif](https://github.com/ThiaraFernandes/thiarafernandes/blob/output/github-contribution-grid-snake.svg)
