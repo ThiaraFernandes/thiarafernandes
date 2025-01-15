@@ -1,7 +1,7 @@
 ### Thiara Fernandes 👋
 
-Desenvolvedora Front-End do Rio de Janeiro, formada em Análise e Desenvolvimento de Sistemas pela UNOPAR.
-Experiência com HTML, CSS, JavaScript, React e Bootstrap, e atualmente aprofundando meus estudos em Next.js e iniciando com TypeScript.
+Desenvolvedora Front-End, formada em Análise e Desenvolvimento de Sistemas.
+Experiência com HTML, CSS, JavaScript, React e Bootstrap, e atualmente aprofundando meus estudos em Next.js e TypeScript.
 Tenho aplicado essas tecnologias em projetos pessoais e colaborativos, sempre buscando soluções eficientes e criativas.
 Meu objetivo é continuar aprendendo e contribuindo para o desenvolvimento de interfaces modernas e funcionais.
 
