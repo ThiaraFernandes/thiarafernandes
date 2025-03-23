@@ -10,13 +10,13 @@ Sempre em busca de novos desafios e aprendizados no universo da tecnologia.
 ## 🌐 Connect with me
 
 <p>
-  <a href="https://www.instagram.com/thiararfernandes/">
+  <a href="https://www.instagram.com/thiararfernandes/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram" />
   </a>
-  <a href="mailto:thiararfernandes@gmail.com">
+  <a href="mailto:thiararfernandes@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF69B4" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/thiarafernandes-dev/">
+  <a href="https://www.linkedin.com/in/thiarafernandes/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF69B4" alt="LinkedIn" />
   </a>
 </p>
