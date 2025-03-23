@@ -10,13 +10,13 @@ Sempre em busca de novos desafios e aprendizados no universo da tecnologia.
 ## 🌐 Connect with me
 
 <p>
-  <a href="https://www.instagram.com/thiararfernandes/" target="blank">
+  <a href="https://www.instagram.com/thiararfernandes/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram" />
   </a>
-  <a href="mailto:thiararfernandes@gmail.com" target="blank">
+  <a href="mailto:thiararfernandes@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF69B4" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/thiarafernandes/" target="blank">
+  <a href="https://www.linkedin.com/in/thiarafernandes/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF69B4" alt="LinkedIn" />
   </a>
 </p>
@@ -39,6 +39,14 @@ Sempre em busca de novos desafios e aprendizados no universo da tecnologia.
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=FF69B4" alt="Next.js" />
   <img src="https://img.shields.io/badge/Styled--Components-000?style=for-the-badge&logo=styled-components&logoColor=FF69B4" alt="Styled-Components" />
   <img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=FF69B4" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=FF69B4" alt="Sass" />
+</p>
+
+### **Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=FF69B4" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=FF69B4" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=FF69B4" alt="MongoDB" />
 </p>
 
 ### **Software**
