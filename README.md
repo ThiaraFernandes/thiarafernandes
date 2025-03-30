@@ -11,67 +11,55 @@ Sempre em busca de novos desafios e aprendizados no universo da tecnologia.
 
 <p>
   <a href="https://www.instagram.com/thiararfernandes/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:thiararfernandes@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF69B4" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/thiarafernandes/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF69B4" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-## 🛠️ technologies
+## 🛠️ Technologies
 
 ### **Languages**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=FF69B4" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=FF69B4" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FF69B4" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=FF69B4" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 ### **Frameworks & Libraries**
 <p>
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=FF69B4" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=FF69B4" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Styled--Components-000?style=for-the-badge&logo=styled-components&logoColor=FF69B4" alt="Styled-Components" />
-  <img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=FF69B4" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=FF69B4" alt="Sass" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 </p>
 
 ### **Backend & Databases**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=FF69B4" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=FF69B4" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=FF69B4" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ### **Software**
 <p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=FF69B4" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=FF69B4" alt="Figma" />
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FF69B4" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ### **Others**
 <p>
-  <img src="https://img.shields.io/badge/NPM-000?style=for-the-badge&logo=npm&logoColor=FF69B4" alt="npm" />
-  <img src="https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite&logoColor=FF69B4" alt="Vite" />
-  <img src="https://img.shields.io/badge/Yarn-000?style=for-the-badge&logo=yarn&logoColor=FF69B4" alt="Yarn" />
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=FF69B4" alt="Git" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiaraFernandes&theme=transparent&bg_color=000&border_color=FF69B4&show_icons=true&icon_color=FFF&title_color=FF69B4&text_color=FFF&hide_title=true&hide=stars" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiaraFernandes&layout=compact&bg_color=000&border_color=FF69B4&title_color=FFF&text_color=FFF" />
-</div>
-
----
-
