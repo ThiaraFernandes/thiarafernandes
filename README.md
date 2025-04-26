@@ -1,7 +1,7 @@
 # Thiara Fernandes 👋
 
 Desenvolvedora Front-End, formada em Análise e Desenvolvimento de Sistemas.  
-Experiência com HTML, CSS, JavaScript, React e Bootstrap, e atualmente aprofundando meus estudos em Next.js e TypeScript.  
+Experiência com HTML, CSS, JavaScript, React e Bootstrap, e atualmente aprofundando meus estudos em Backend.  
 Sou apaixonada por criar interfaces modernas, acessíveis e funcionais.  
 Sempre em busca de novos desafios e aprendizados no universo da tecnologia.
 
